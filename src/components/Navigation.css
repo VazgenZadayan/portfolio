@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Augestina;
+    src: url(../assets/fonts/Agustina.otf);
+    font-display: swap
+}
+
+#nav-title{
+    font-family: Augestina;
+    text-transform: capitalize;
+}
