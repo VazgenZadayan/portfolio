@@ -139,7 +139,7 @@ export const experience = [
   },
   {
     role: 'fullstack_developer',
-    company: 'CAREERISTs',
+    company: 'CAREERISTsss',
     link: 'https://www.careerist.com/',
     companylogo: careerist,
     date: '08/2021 – ',
