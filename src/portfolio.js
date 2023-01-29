@@ -5,7 +5,8 @@ import vladilen from './assets/img/icons/common/vladilen.png';
 import plehanova from './assets/img/icons/common/plehanova.png';
 import softconstruct from './assets/img/icons/common/softconstruct.svg';
 import careerist from './assets/img/icons/common/careerist.svg';
-
+import aimit from './assets/img/icons/common/aimit.svg';
+import result from './assets/img/icons/common/result.jpeg';
 export const greetings = {
   name: 'Vazgen Zadayan',
   resumeLink: cv,
@@ -19,6 +20,7 @@ export const socialLinks = {
   facebook: 'https://www.facebook.com/vazgen.zadayan/',
   github: 'https://github.com/VazgenZadayan',
   linkedin: 'https://www.linkedin.com/in/vazgenzadayan/',
+  instagram: 'https://www.instagram.com/vazgen.zadayan/',
 };
 
 export const skillsSection = {
@@ -39,29 +41,33 @@ export const skillsSection = {
       skillName: 'JavaScript',
       fontAwesomeClassname: 'logos:javascript',
     },
-    // {
-    // 	skillName: "TypeScript",
-    // 	fontAwesomeClassname: "logos:typescript-icon",
-    // },
+    {
+    	skillName: "TypeScript",
+    	fontAwesomeClassname: "logos:typescript-icon",
+    },
     {
       skillName: 'reactjs',
       fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
+    },
+    {
+      skillName: 'redux',
+      fontAwesomeClassname: 'vscode-icons:folder-type-light-redux',
+    },
+    {
+      skillName: 'nextJS',
+      fontAwesomeClassname: 'logos:nextjs-icon',
     },
     {
       skillName: 'nodejs',
       fontAwesomeClassname: 'logos:nodejs-icon',
     },
     {
-      skillName: 'npm',
-      fontAwesomeClassname: 'vscode-icons:file-type-npm',
-    },
-    {
       skillName: 'mongoDB',
       fontAwesomeClassname: 'vscode-icons:file-type-mongo',
     },
     {
-      skillName: 'MySQL',
-      fontAwesomeClassname: 'logos:mysql',
+      skillName: 'redis',
+      fontAwesomeClassname: 'logos:redis',
     },
     {
       skillName: 'firebase',
@@ -109,7 +115,7 @@ export const educationInfo = [
     schoolName: 'vladilen',
     subHeader: 'web_developer',
     duration: '09/2021 - 02/2022',
-    link: 'https://vladilen.ru/junior',
+    link: 'https://result.school/products/junior-js',
     logo: vladilen,
     descBullets: [
       'vladilen_front',
@@ -139,11 +145,27 @@ export const experience = [
   },
   {
     role: 'fullstack_developer',
-    company: 'CAREERISTsss',
+    company: 'CAREERIST',
     link: 'https://www.careerist.com/',
     companylogo: careerist,
-    date: '08/2021 – ',
+    date: '05/2022 – 10/2022',
     descBullets: ['developing', 'materialUI', 'optimizing', "careerist_mysql","careerist_nodeJS"],
+  },
+  {
+    role: 'supervisor',
+    company: 'Result School',
+    link: 'https://result.school/products/junior-js',
+    companylogo: result,
+    date: '10/2022 – present',
+    descBullets: ['homeWork_check', 'answer_questions', 'motivate_students', "work_with_collegues"],
+  },
+  {
+    role: 'fullstack_developer',
+    company: 'AimIT',
+    link: 'https://aimit.company/',
+    companylogo: aimit,
+    date: '10/2022 – present',
+    descBullets: ['aimit_react', 'aimit_next', 'aimit_nodejs', "aimit_arch"],
   },
 ];
 

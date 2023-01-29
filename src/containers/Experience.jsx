@@ -28,7 +28,7 @@ const Experience = () => {
               <h4 className='display-3 text-white'>{t('experience')}</h4>
             </div>
           </div>
-          <Row className='row-grid align-items-center'>
+          <Row className='row-grid'>
             {experience.map((data, i) => {
               return <ExperienceCard key={i} data={data} />;
             })}

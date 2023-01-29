@@ -19,6 +19,16 @@ const SocialLinks = () => {
       <Button
         className='btn-icon-only rounded-circle ml-1'
         color='instagram'
+        href={socialLinks.instagram}
+        target='_blank'
+      >
+        <span className='btn-inner--icon'>
+          <i className='fa fa-instagram' />
+        </span>
+      </Button>
+      <Button
+        className='btn-icon-only rounded-circle ml-1'
+        color='instagram'
         target='_blank'
         href='mailto:zadayan.vazgen@gmail.com'
       >
