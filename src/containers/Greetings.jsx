@@ -12,7 +12,7 @@ import GreetingLottie from '../components/DisplayLottie';
 import { useTranslations } from 'contexts/translation.context';
 
 const Greetings = () => {
-  const { t } = useTranslations();
+  const { t, lang } = useTranslations();
   return (
     <Fade top duration={1000} distance="40px">
       <main ref="main">
@@ -49,7 +49,7 @@ const Greetings = () => {
                     <div className="btn-wrapper my-4">
                       <Button
                         className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
-                        href={greetings.resumeLink}
+                        href={greetings[lang]}
                         download="Vazgen_Zadayan_CV"
                       >
                         <span className="btn-inner--icon mr-1">

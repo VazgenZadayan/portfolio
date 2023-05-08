@@ -1,4 +1,5 @@
-import cv from './assets/cv.pdf';
+import resume_en from './assets/cv_en.pdf';
+import resume_ru from './assets/cv_ru.pdf';
 import udemy from './assets/img/icons/common/udemy.svg';
 import harvard from './assets/img/icons/common/harvard.svg';
 import vladilen from './assets/img/icons/common/vladilen.png';
@@ -9,7 +10,8 @@ import aimit from './assets/img/icons/common/aimit.svg';
 import result from './assets/img/icons/common/result.jpeg';
 export const greetings = {
   name: 'Vazgen Zadayan',
-  resumeLink: cv,
+  en: resume_en,
+  ru: resume_ru,
 };
 
 export const openSource = {
@@ -17,7 +19,7 @@ export const openSource = {
 };
 
 export const socialLinks = {
-  facebook: 'https://www.facebook.com/vazgen.zadayan/',
+  facebook: 'https://www.facebook.com/zadayan.vazgen/',
   github: 'https://github.com/VazgenZadayan',
   linkedin: 'https://www.linkedin.com/in/vazgenzadayan/',
   instagram: 'https://www.instagram.com/vazgen.zadayan/',
