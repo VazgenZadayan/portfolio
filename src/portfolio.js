@@ -158,7 +158,7 @@ export const experience = [
     company: 'Result School',
     link: 'https://result.school/products/junior-js',
     companylogo: result,
-    date: '10/2022 – present',
+    date: '10/2022 – 01/2023',
     descBullets: ['homeWork_check', 'answer_questions', 'motivate_students', "work_with_collegues"],
   },
   {
@@ -166,8 +166,16 @@ export const experience = [
     company: 'AimIT',
     link: 'https://aimit.company/',
     companylogo: aimit,
-    date: '10/2022 – present',
+    date: '10/2022 – 10/2023',
     descBullets: ['aimit_react', 'aimit_next', 'aimit_nodejs', "aimit_arch"],
+  },
+  {
+    role: 'team_lead',
+    company: 'AimIT',
+    link: 'https://aimit.company/',
+    companylogo: aimit,
+    date: '10/2023 – 03/2024',
+    descBullets: ['leading_team', 'planning', 'architecting', "communicating_project_updates"],
   },
 ];
 

@@ -37,6 +37,7 @@
    "software_intern": "Software Engineer (Intern)",
    "software_junior": "Junior Software Engineer",
    "fullstack_developer": "Full Stack Developer",
+   "team_lead": "Front End Team Lead",
    "supervisor": "Front End Course Supervisor",
    "team_integration": "Team Integration",
    "consolidation": "Consolidation of theoretical knowledge in practice",
@@ -57,6 +58,13 @@
    "building": "Building reusable code for future use",
    "optimizing": "Optimizing web pages for maximum speed and scalability",
    "utilizing": "Utilizing a variety of markup languages to write web pages",
+
+
+   "leading_team": "Leading a team of frontend developers, providing guidance, support, and mentorship.",
+   "planning": "Planning and prioritizing tasks and projects for the frontend team.",
+   "architecting": "Architecting and designing frontend solutions that align with project goals and requirements.",
+   "communicating_project_updates": "Communicating project updates, challenges, and successes to upper management and other stakeholders.",
+
    "reach_out_with_me": "Reach Out to me!",
    "discuss": "DISCUSS A PROJECT OR JUST WANT TO SAY HI?",
    "my_inbox": "MY INBOX IS OPEN FOR ALL"
@@ -99,6 +107,7 @@
     "software_intern": "Front End разработчик (Стажер)",
     "software_junior": "Junior Front End разработчик",
     "fullstack_developer": "Full Stack Разработчик",
+    "team_lead": "Руководитель команды фронтенда",
     "supervisor": "Куратор курса Front End Разработчик",
     "homeWork_check": "Проверка домашних заданий",
     "answer_questions": "Ответы на вопросы, задаваемые студентами",
@@ -118,6 +127,12 @@
     "careerist_nodeJS": "Разработка BackEnd части приложение",
     "building": "Создание переиспользуемого кода",
     "optimizing": "Оптимизация кода для максимальной скорости работы приложения",
+
+   "leading_team": "Руководство командой фронтенд-разработчиков, обеспечение руководства, поддержки и наставничества.",
+   "planning": "Планирование и определение приоритетности задач и проектов для команды фронтенд-разработчиков.",
+   "architecting": "Архитектура и проектирование фронтенд-решений, соответствующих целям и требованиям проекта.",
+   "communicating_project_updates": "Донесение обновлений, проблем и успехов проекта до высшего руководства и других заинтересованных сторон.",
+
     "reach_out_with_me": "Свяжитесь со мной!",
     "discuss": "Хотите обсудить проект или пригласить меня в команду?",
     "my_inbox": "Способов связаться со мной много!"
