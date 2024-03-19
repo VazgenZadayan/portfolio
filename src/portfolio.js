@@ -134,7 +134,7 @@ export const experience = [
     company: 'SOFTCONSTRUCT',
     link: 'https://www.softconstruct.com/',
     companylogo: softconstruct,
-    date: '05/2021 – 08/2021',
+    date: '05/2020 – 08/2020',
     descBullets: ['team_integration', 'consolidation', 'performing'],
   },
   {
@@ -142,7 +142,7 @@ export const experience = [
     company: 'SOFTCONSTRUCT',
     link: 'https://www.softconstruct.com/',
     companylogo: softconstruct,
-    date: '08/2021 – 05/2022',
+    date: '08/2020 – 05/2021',
     descBullets: ['developing', 'striking', 'building', 'optimizing'],
   },
   {
@@ -150,7 +150,7 @@ export const experience = [
     company: 'CAREERIST',
     link: 'https://www.careerist.com/',
     companylogo: careerist,
-    date: '05/2022 – 10/2022',
+    date: '05/2021 – 10/2021',
     descBullets: ['developing', 'materialUI', 'optimizing', "careerist_mysql","careerist_nodeJS"],
   },
   {
@@ -166,7 +166,7 @@ export const experience = [
     company: 'AimIT',
     link: 'https://aimit.company/',
     companylogo: aimit,
-    date: '10/2022 – 10/2023',
+    date: '10/2021 – 10/2023',
     descBullets: ['aimit_react', 'aimit_next', 'aimit_nodejs', "aimit_arch"],
   },
   {
